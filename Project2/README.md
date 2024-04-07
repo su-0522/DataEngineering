@@ -3,6 +3,9 @@
 - Youtube video I watched
   - https://www.youtube.com/watch?v=VFoYw6sDCEg&list=PLBJe2dFI4sgukOW6O0B-OVyX9c6fQKJ2N&index=4&ab_channel=DarshilParmar
   - data: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+  ![image](https://github.com/su-0522/DataEngineering/assets/166189404/406d6d15-7381-4e7f-b11f-869bb61c1e61)
+  ![image](https://github.com/su-0522/DataEngineering/assets/166189404/2537837a-3a4a-4c26-a4f7-ce2db989952a)
+
 ## Data Warehouse
 - Database: not good for analytic
   - too slow
