@@ -1,0 +1,12 @@
+# For postgresql
+apache-airflow-providers-postgres
+psycopg2
+
+# For MSSQL
+apache-airflow-providers-odbc
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-microsoft-mssql[odbc]
+pyodbc
+
+pandas
+sqlalchemy
