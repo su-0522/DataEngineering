@@ -1,6 +1,7 @@
 *.csv
 *.ipynb_checkpoint*
-Run_airflow_in_docker_MSSQL_PostgreSQL/logs/**
-Run_airflow_in_docker_MSSQL_PostgreSQL/plugins/**
-Run_airflow_in_docker_MSSQL_PostgreSQL/config/**
+Run_airflow_in_docker_MSSQL_Postgres/logs/**
+Run_airflow_in_docker_MSSQL_Postgres/plugins/**
+Run_airflow_in_docker_MSSQL_Postgres/config/**
+Run_airflow_in_docker_MSSQL_Postgres/airflow.sh
 *__pycache__*
